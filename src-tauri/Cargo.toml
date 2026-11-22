@@ -3,7 +3,7 @@ name = "drawing-automation-app"
 version = "0.1.0"
 description = "A lightweight drawing automation desktop application"
 authors = ["you"]
-license = ""
+license = "GPL-3.0-or-later"
 repository = ""
 edition = "2021"
 
